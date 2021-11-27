@@ -10,16 +10,10 @@ For the Version of the game with Audio, refer to this [link](https://mega.nz/fil
 
 | **Group Members** | **Roll no.** | **Names** |
 | --- | --- | --- |
-|
-**1**
- |
-**K190229** | **Saud Ahmed Abbasi** |
+| **1** | **K190229** | **Saud Ahmed Abbasi** |
 | --- | --- | --- |
-|
-**2**
- | **K190181**
- | **Umer Ahmed**
- |
+| **2** | **K190181** | **Umer Ahmed**|
+| --- | --- | --- |
 | **3** | **K191512** | **Zaid Bin Shahab** |
 | --- | --- | --- |
 
